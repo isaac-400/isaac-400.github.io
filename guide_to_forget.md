@@ -13,7 +13,8 @@ I moved from my childhood home in 2016. 15 of the 19 short years of my life all 
 This Sunday afternoon, my sister and I set out to make our final mark on the place. Armed with cans of spray-paint, we marched into our barren rooms and got to work. My sister, who is more artistically inclined, sketched a drawing in black on her pastel pink walls while I skipped the art in favor of my signature. Stretching the long, yellow wall of my room, I had claimed the room finally mine on the last day I could ever be inside it. My sister and I had shared this room for 10 years: first in the same crib and eventually different beds until she moved out. I could still see the indentation in the weathered blue carpet from where my bedframe once sat. The paint dripped down the molding to meet the impression.
 
 I felt a pained happiness. All my life was here, soon to be crushed to dust, but I was off to somewhere new. When I was walking out the door for the last time, I made a promise to myself, signed in black spray-paint, that I wouldn’t forget. I am determined that the inside of my skull will be bounded, secretly, by yellow drywall and blue carpet forever.
-***
+
+---
 
 “But if the bathroom was on the left, then where the hell was the laundry room?!”
 
