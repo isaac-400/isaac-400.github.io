@@ -6,7 +6,7 @@ categories: creative-writing 20W
 ## A Guide to Forgetting
 #### Isaac Feldman
 
-![the house before being demolished, an aging, brick, split-level home](/house.png/)
+![the house before being demolished, an aging, brick, split-level home](/media/house.png/)
 
 I moved from my childhood home in 2016. 15 of the 19 short years of my life all took place there: family dinners, game nights, fruitless reorganizing. It was all changing. We were going to move, and the old house was to be demolished. My parents had always wanted to be in a house big enough for four and a dog. I wasn’t convinced a new house would be any better, but I had little choice: teenagers don’t sign mortgages.
 
