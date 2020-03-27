@@ -1,7 +1,9 @@
+---
 layout: page
 title: "A Guide to Forgetting"
 date: 2020-03-27 10:00:00 -0000
-categories: creative-writing 20W
+categories: [creative-writing, 20W]
+---
 
 ## A Guide to Forgetting
 #### Isaac Feldman
@@ -32,7 +34,9 @@ Still, I don’t regret forgetting. I just wish it wasn’t a part of growing up
 ---
 ### Bibliography
 ---
+
 [1]: Innocence Project. Eyewitness Identification Reform. 2020. 20 January 2020. <https://www.innocenceproject.org/eyewitness-identification-reform/>.  
+
 [2]: Paul, Marla. "Your Memory is like the Telephone Game." Northwestern Now 19 September 2012. Web. 20 January 2020. <https://news.northwestern.edu/stories/2012/09/your-memory-is-like-the-telephone-game>.
 
 
