@@ -13,4 +13,4 @@
 
 
 #### You can see more from me here:  
-| [Email](mailto:isaac.c.feldman.23@dartmouth.edu) | [LinkedIn](https://www.linkedin.com/in/isaac-c-feldman/) | [Github](https://github.com/isaac-400) | [Instagram](https://instagram.com/isaac_feldman) | [CV](/resume.md/) |
+| [Email](mailto:isaac.c.feldman.23@dartmouth.edu) | [LinkedIn](https://www.linkedin.com/in/isaac-c-feldman/) | [Github](https://github.com/isaac-400) | [Instagram](https://instagram.com/isaac_feldman) | [CV](/isaac_feldman_resume.docx/) |
