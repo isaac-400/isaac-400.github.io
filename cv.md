@@ -1,5 +1,3 @@
-layout: page
-title: CV
 
 [Download a Copy](/isaac_feldman_resume.docx/)
 
