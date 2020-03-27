@@ -1,7 +1,7 @@
 
 ---
 
- # Hi, I'm **Isaac Feldman**
+ <div align="center"><font size="6"> Hi, I'm <b>Isaac Feldman</b> </font></div>
 
 ---
 #### *Student, Python Developer, Writer*
