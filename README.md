@@ -3,7 +3,7 @@
  <div align="center"><font size="6"> Hi, I'm <b>Isaac Feldman</b> </font></div>
 
 ---
-<div align="center"><font size="3"><i>Student at Dartmouth College, Python Developer, Writer</i></font></div>
+<div align="center"><font size="3"><i>Student at Dartmouth College, Developer, Writer</i></font></div>
 
   
 #### I make things like:
