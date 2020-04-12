@@ -1,5 +1,5 @@
 
-[Download a Copy](/../isaac_feldman_resume.docx/)
+[Download a Copy](/_documents/isaac_feldman_resume.docx/)
 
 # Isaac Feldman
 
